@@ -9,7 +9,7 @@ The aim of the project is to use Spark to wrangle the data, engineer features, a
 if users are about to cancel the service. 
 
 I wrote a blog post that documents the process and some explanations on the steps taken in this project. 
-You can find it [here]().
+You can find it [here](https://medium.com/@klassannalena/predicting-churn-for-a-music-streaming-service-with-spark-a73873a03f23).
 
 ### Libraries
 
